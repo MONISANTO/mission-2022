@@ -172,3 +172,16 @@ margin-top: 10%;
     border-radius: 1%;
     box-shadow: 10px 10px 40px rgb(91, 39, 233);
 }
+
+.section-6{
+    background-color: darkturquoise;
+    font-family: sans-serif;
+}
+
+.footer{
+    padding-left: 40%;
+    margin-top: 20%;
+}
+.e-mail{
+    color: rgb(0, 4, 255);
+}
